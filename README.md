@@ -45,6 +45,6 @@
 ## License
 This project is protected by the `GNU General Public License v3.0.`
 Do not edit copyright messages!
-
+https://github.com/raza270/QueenAmdi
 ## Disclaimer
 `WhatsApp` name, its variations and logo are registered trademarks on Facebook. We have nothing to do with the registered trademark.
